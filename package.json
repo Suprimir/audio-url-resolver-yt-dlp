@@ -20,6 +20,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.1.0",
+    "ffmpeg-static": "^5.2.0",
     "yt-dlp-exec": "^1.0.2"
   }
 }
