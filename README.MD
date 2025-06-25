@@ -25,3 +25,12 @@ npm run dev
 # o 
 npm run start
 ```
+
+---
+
+## 🛠️ API Endpoints
+
+| Endpoint | Método | Descripción |
+|----------|--------|-------------|
+| `/get-audio-url` | GET | Obtiene la URL directa del audio de un video |
+| `/download-audio` | GET | Descarga el archivo de audio usando pipe stream |
